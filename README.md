@@ -1,4 +1,5 @@
-### Hi there 👋
+### I am a Computer Engineer familiar with C, Embedded Systems, AUTOSAR, C++, Java, Python, OOP, RTOS, SW Engineering and AI ambitious to get exposed to work field and to have more experience.
+
 
 <!--
 **yasmin-afifi/yasmin-afifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
