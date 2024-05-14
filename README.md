@@ -1,4 +1,6 @@
-### I am a Computer Engineer familiar with C, Embedded Systems, AUTOSAR, C++, Java, Python, OOP, RTOS, SW Engineering and AI ambitious to get exposed to work field and to have more experience.
+### My name is Yasmin Khaled Afifi
+I am a Computer Engineer familiar with C, Embedded Systems, AUTOSAR, C++,  
+Python, OOP, RTOS, SW Engineering .
 
 
 <!--
